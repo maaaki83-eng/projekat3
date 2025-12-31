@@ -1,0 +1,2 @@
+tesstiram funkcionalnost za logovanje
+testiram unos emaila
